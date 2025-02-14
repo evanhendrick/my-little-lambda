@@ -1,0 +1,24 @@
+{
+  "name": "my-iac-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test":"jest",
+    "start":"node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanhendrick/my-little-lambda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evanhendrick/my-little-lambda/issues"
+  },
+  "homepage": "https://github.com/evanhendrick/my-little-lambda#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
